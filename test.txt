@@ -1,1 +1,12 @@
-minhtrinh
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
+
+v
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
+
+git push --set-upstream origin nhanh1
+git push --set-upstream origin nhanh1
